@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "my-closet",
+  "version": "0.1.0",
+  "description": "Save, find, and remove your clothes in a private digital closet with My Closet.",
+  "author": {
+    "name": "Tolstoy LTD",
+    "url": "https://www.gotolstoy.com"
+  },
+  "homepage": "https://www.gotolstoy.com",
+  "keywords": [
+    "closet",
+    "wardrobe",
+    "digital closet",
+    "clothes",
+    "clothing",
+    "wardrobe organizer",
+    "clothing photos",
+    "personal wardrobe"
+  ]
+}
