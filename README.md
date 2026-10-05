@@ -39,7 +39,7 @@ The service does not provide virtual try-on, image generation, mailbox import, o
 
 Photo input depends on the client. In ChatGPT, one photo request can save separate text-only and photo entries. The stored photo renders correctly. Check the saved items and ask the assistant to remove any unwanted duplicate.
 
-Installation, OAuth, tool use, and attached-photo transfer have not yet been tested in Cursor or Grok Bot.
+The local package, OAuth connection, tool discovery, and an unfiltered closet search have been verified in Cursor. Attached-photo transfer in Cursor and installation, OAuth, tool use, and photo transfer in Grok Bot have not yet been tested.
 
 ## Help and policies
 
